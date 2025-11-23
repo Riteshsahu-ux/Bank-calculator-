@@ -1,0 +1,21 @@
+{
+  "name": "OGB Interest Calculator",
+  "short_name": "OGB Calculator",
+  "description": "Odisha Grameen Bank Interest Rate Calculator",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f9fc",
+  "theme_color": "#2b9bd9",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    }
+  ],
+  "categories": ["finance", "productivity", "utilities"],
+  "lang": "en",
+  "scope": "/",
+  "prefer_related_applications": false
+}
